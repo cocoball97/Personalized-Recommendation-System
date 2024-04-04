@@ -2,11 +2,11 @@
 
 
 <p align="center">
-  <a href="https://courageous-divan-62d.notion.site/06fb348ddc7e425d9a8568d51db9ecaf">
+  <a href="https://cocoball.notion.site/06fb348ddc7e425d9a8568d51db9ecaf?pvs=74">
     <img width="60%" src="https://github.com/cocoball97/E-Commerce-Revenue-Enhancement-Project/assets/125456345/b035e24b-ba94-47af-ae10-6a028847e619" alt="메인 페이지"/>
   </a>
   <br> <!-- 줄바꿈 -->
-  <a href="https://courageous-divan-62d.notion.site/06fb348ddc7e425d9a8568d51db9ecaf">클릭해서 시연영상을 확인하세요</a>
+  <a href="https://cocoball.notion.site/06fb348ddc7e425d9a8568d51db9ecaf?pvs=74">클릭해서 시연영상을 확인하세요</a>
 </p>
 
 
